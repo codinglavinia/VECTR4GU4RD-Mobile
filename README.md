@@ -10,7 +10,7 @@
 ```
 VectraGuard Multiplatform Application 
  ├── packages/
-+│   ├── shared/                    # Shared React Native logic
++│   ├── shared/                    # React Native 
 +│   │   ├── src/
 +│   │   │   ├── hooks/
 +│   │   │   ├── utils/
@@ -41,13 +41,13 @@ VectraGuard Multiplatform Application
 +│       └── tsconfig.json
 +│
 +├── services/
-+│   └── ml-service/                # Python ML service
++│   └── ml-service/                Python # Machine Learning service
 +│       ├── app.py
 +│       ├── model.py
 +│       ├── requirements.txt
 +│       └── docker/ (optional)
 +│
-+├── android/                       # Android native modules
++├── android/                       # Java in Android native modules
 +│   ├── app/src/main/java/.../
 +│   │   ├── VpnModule.java 
 +│   │   └── PacketSnifferService.java
@@ -164,3 +164,4 @@ The current application uses mock data. To connect to a real database:
     *   Set your public directory to `.next` (or follow Next.js specific Firebase deployment guides).
 4.  For dynamic Next.js features, you might need to set up Firebase Functions. Refer to the official [Firebase documentation for deploying Next.js apps](https://firebase.google.com/docs/hosting/frameworks/nextjs).
 5.  Deploy: `firebase deploy`
+```
