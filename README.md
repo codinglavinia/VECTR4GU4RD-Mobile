@@ -6,7 +6,7 @@
 
 🇩🇪 VectraGuard ist eine Mobile- und Web-App zur Überwachung der Netzwerksicherheit, die regelbasierte Erkennung und Machine Learning für Echtzeitwarnungen kombiniert
 
-##Project Architecture :
+Project Architecture :
 ```
 VectraGuard Multiplatform Application 
  ├── packages/
