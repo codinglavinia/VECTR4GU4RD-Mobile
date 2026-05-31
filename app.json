@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "VectraGuard",
+    "slug": "VectraGuard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "scheme": "vectraguard",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.vectraguard.anonymous"
+    },
+    "plugins": [
+      "expo-web-browser",
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cba3759d-6887-4fb2-91be-19a042eb8721"
+      }
+    }
+  }
+}

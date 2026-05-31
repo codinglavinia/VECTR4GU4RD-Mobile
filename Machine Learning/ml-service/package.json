@@ -1,0 +1,14 @@
+{
+  "name": "vectraguard-ml-service",
+  "version": "1.0.0",
+  "description": "VectraGuard Machine Learning Microservice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python -m flask run --port=5000",
+    "dev": "python -m flask run --port=5000 --debug",
+    "lint": "pylint --disable=all --enable=E,F app.py model.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
