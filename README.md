@@ -1,6 +1,6 @@
-#  VectraGuard
+#  VΞCTR4GU4RD - Cybersecurity Intelligence Platform
 
- Multiplatform Cybersecurity System (Mobile + Web + Backend + ML)
+ 
 
 ---
 
