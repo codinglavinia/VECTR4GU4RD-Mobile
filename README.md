@@ -7,7 +7,7 @@ VectraGuard is a multiplatform cybersecurity system (mobile + web) designed for 
 VectraGuard es un sistema multiplataforma de ciberseguridad (móvil + web) diseñado para la monitorización de redes en tiempo real, combinando detección basada en reglas y Machine Learning para análisis de tráfico y alertas.
 
 ## 🇷🇴 Română
-VectraGuard este un sistem multiplatformă de securitate cibernetică (mobil + web) pentru monitorizarea rețelelor în timp real.
+VectraGuard este un sistem multiplataformă de securitate cibernetică (mobil + web) pentru monitorizarea rețelelor în timp real.
 
 ## 🇩🇪 Deutsch
 VectraGuard ist ein plattformübergreifendes Cybersicherheitsystem zur Echtzeit-Netzwerküberwachung.
@@ -37,13 +37,13 @@ VectraGuard Mobile
 
 🧪 Testing :
 
-### Caja negra (Black-box testing) :
+### Caja negra (Black-Box Testing) :
 
 * Validación de login con credenciales válidas e inválidas
 * Pruebas de flujo de usuario (registro → dashboard → alertas)
 * Simulación de ataques desde interfaz de red
 
-### Caja blanca (White-box testing) :
+### Caja blanca (White-Box Testing) :
 
 * Testing de funciones de parsing de paquetes
 * Validación de reglas IDS internas
