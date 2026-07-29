@@ -34,12 +34,3 @@ VectraGuard ist ein plattformübergreifendes Cybersicherheitsystem zur Echtzeit-
 * Cobertura de lógica de clasificación ML
 * Tests unitarios en servicios backend
 
-## Métricas de Evaluación IDS:
-
-El sistema puede evaluarse mediante métricas estándar de ciberseguridad:
-
-* 🎯 **True Positive Rate (TPR / Recall)**
-* ⚠️ **False Positive Rate (FPR)**
-* 📉 **Precision del modelo de detección**
-* 📊 **F1-Score para balance de clasificación**
-* ⏱️ Latencia de detección en tiempo real
