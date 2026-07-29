@@ -1,4 +1,9 @@
 # VΞCTR4GU4RD - Cybersecurity Intelligence Platform- Mobile Version 
+## 🎥 Mobile Demo
+
+<p align="center">
+  <img src="assets/VΞCTR4GU4RD_Mobile version-demo.gif" width="360"/>
+</p>
 
 ## 🇬🇧 English
 VectraGuard is a multiplatform cybersecurity system (mobile + web) designed for real-time network monitoring. It combines rule-based detection and Machine Learning techniques for traffic analysis, anomaly detection, and alert persistence.
@@ -11,27 +16,6 @@ VectraGuard este un sistem multiplataformă de securitate cibernetică (mobil + 
 
 ## 🇩🇪 Deutsch
 VectraGuard ist ein plattformübergreifendes Cybersicherheitsystem zur Echtzeit-Netzwerküberwachung.
-
-## 📱 Mobile Architecture (Expo React Native)
-
-```text
-VectraGuard Mobile
-│
-├── app/
-│   ├── (auth)/                  Authentication screens
-│   ├── (dashboard)/             Main application dashboard
-│   └── components/              Reusable UI components
-│
-├── assets/                      Static assets (images, icons, logos)
-├── services/                    Firebase, API and backend integrations
-├── hooks/                       Custom React hooks
-├── utils/                       Utility functions and helpers
-├── context/                     Global state management
-│
-├── app.json                     Expo application configuration
-├── eas.json                     EAS Build configuration
-└── package.json                 Dependencies and project metadata
-```
 
 
 
